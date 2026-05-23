@@ -1,0 +1,21 @@
+# Checklist academico de la propuesta
+
+- [ ] Portada.
+- [ ] Contraportada.
+- [ ] Tabla de contenido.
+- [ ] Introduccion.
+- [ ] Planteamiento del problema.
+- [ ] Justificacion.
+- [ ] Objetivo general.
+- [ ] Objetivos especificos.
+- [ ] Alcance.
+- [ ] Marco de referencia.
+- [ ] Metodologia.
+- [ ] Cronograma.
+- [ ] Presupuesto.
+- [ ] Referencias.
+- [ ] Anexos.
+- [ ] Evidencias de pruebas.
+- [ ] Capturas de la aplicacion.
+- [ ] Reporte generado.
+- [ ] Matriz de trazabilidad.
